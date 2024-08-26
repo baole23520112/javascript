@@ -1,0 +1,29 @@
+{
+  "course": [
+    {
+      "id": "1",
+      "name": "fake Build web with NodeJS",
+      "description": "About NodeJS basic"
+    },
+    {
+      "id": "2",
+      "name": "How to Use JSON Server for Front-end Development",
+      "description": "One of the most common responsibilities for front-end developers is handling the data in their front-end applications. You’ll need to be able to retrieve data from an API, manipulate it, and then render it on the screen in a modern web application for user interactions."
+    },
+    {
+      "id": "3",
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python."
+    },
+    {
+      "id": "4",
+      "name": "Using Databases with JavaScript",
+      "description": "This course will introduce students to the basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort."
+    },
+    {
+      "id": "5",
+      "name": "Using Databases with Python",
+      "description": "This course will introduce students to the basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort."
+    }
+  ]
+}
